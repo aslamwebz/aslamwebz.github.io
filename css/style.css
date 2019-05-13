@@ -860,7 +860,7 @@ p.code-title {
 #portfolio {
   transition: 0.3s all;
   background-color: #f5f5f5;
-  ;
+  min-height: 100vh;
 }
 
 #portfolio .card {

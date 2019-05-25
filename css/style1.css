@@ -790,6 +790,11 @@ p.code-title {
     background: white;
 }
 
+#portfolio .card img{
+    height: 300px;
+    width: 100%;
+}
+
 #portfolio .grid-item img:hover {
     background: white;
     opacity: 0.3;

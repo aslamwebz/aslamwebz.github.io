@@ -360,6 +360,7 @@ a.navbar-brand {
 
 #portfolio .card-footer {
     background: white;
+    height: 150px;
 }
 
 #portfolio .card img{

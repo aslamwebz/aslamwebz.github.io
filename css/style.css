@@ -351,6 +351,7 @@ a.navbar-brand {
 
 #portfolio .card .card-body{
     background: #d3d3d3;
+    height: 350px;
 }
 
 #portfolio .container-fluid {

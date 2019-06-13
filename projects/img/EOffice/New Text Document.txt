@@ -1,1 +1,0 @@
-PHP Bootstrap Self developed dashboard

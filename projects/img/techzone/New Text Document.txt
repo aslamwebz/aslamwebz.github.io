@@ -1,1 +1,0 @@
-Laravel with argon dashboard, vue, axios, bootstrap ,sweetalert 2
